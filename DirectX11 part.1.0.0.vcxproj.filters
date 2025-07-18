@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="1-1. ウィンドウ作成">
+      <UniqueIdentifier>{0ae791ff-7734-414a-b24b-8fe7b15d86ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="program\1-1. ウィンドウ作成\1-1. create window.cpp">
+      <Filter>1-1. ウィンドウ作成</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
